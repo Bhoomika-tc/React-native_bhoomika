@@ -77,7 +77,6 @@ const styles = StyleSheet.create({
     marginTop: 30,
     shadowColor: 'black',
     elevation: 8,
-    // paddingLeft: 20,
   },
   input: {
     height: '100%',
