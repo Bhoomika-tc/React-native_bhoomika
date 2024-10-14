@@ -86,9 +86,3 @@ const styles = StyleSheet.create({
     
   },
 });
-// input: {
-//   height: 40,
-//   borderColor: 'gray',
- 
-
-// },
